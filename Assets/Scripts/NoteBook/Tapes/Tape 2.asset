@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee78c63ff222fbb4c90499957e34562a, type: 3}
+  m_Name: Tape 2
+  m_EditorClassIdentifier: 
+  id: Tape_2
+  icon: {fileID: 21300000, guid: b511eef04bf2d4342bd7b80d8010c71e, type: 3}
+  noteTypeData: 0
+  itemType: Notebook_Tape
+  clip: {fileID: 8300000, guid: 38841e038d779ea4687e29b70ba25f68, type: 3}
