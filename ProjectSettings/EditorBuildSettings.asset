@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 193c835977e298541bc79e042fdf1df5
+  - enabled: 0
+    path: Assets/Scenes/OldMainMenu.unity
+    guid: c8781760280c4734285ea350880a0941
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1.unity
+    guid: 92afa7eba8f801949bf8a29f1e76b7ae
+  - enabled: 1
+    path: Assets/Scenes/MainLevel.unity
+    guid: 71ccc12386de6df46a2bc6f192580de3
+  - enabled: 1
+    path: Assets/Scenes/Ending1.unity
+    guid: 5192fb7ee619ba3438fa03702e516cd4
+  - enabled: 1
+    path: Assets/Scenes/Ending2.unity
+    guid: 787157c4f41af5942a2686aae81c714f
+  - enabled: 1
+    path: Assets/Scenes/Ending3.unity
+    guid: 715970595e4b80a428a076b4106c1829
+  - enabled: 1
+    path: Assets/Scenes/Ending4.unity
+    guid: cfa207c65fe99784f9168d6c1e67f01b
+  - enabled: 1
+    path: Assets/Scenes/NormalEnding.unity
+    guid: aacba523339155643af5f8c3ff2b62e4
+  - enabled: 1
+    path: Assets/Scenes/RealEnding.unity
+    guid: d77dd8c4ec6cfb642a5ce0cbbb4fd9b9
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}
