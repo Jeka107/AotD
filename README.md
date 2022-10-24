@@ -20,6 +20,6 @@ Monster UI with use of hearing,sight and Nav Mesh Agent.
 
 Bug fixes.
 
-A bit of every think such as animation,sound,cutscenes and more. 
+A bit of every think such as animation,sound,cutscenes,puzzles and more. 
 
 link: https://www.youtube.com/watch?v=_JO29wKQxA4
