@@ -1,4 +1,4 @@
-# Asylum Of The Damned - Final Project
+# Asylum Of The Damned - one of the two final project
 
 Work in a team of 4 people as lead unity devloper for 3 months.
 Better experience with GitHub and ClickUp platform.
@@ -12,7 +12,7 @@ Hit object action system.Text appearance and object on button press action.
 
 Collectibles and their use.
 
-Inventory system.
+Inventory system and Inventory UI.
 
 Journal system.
 
