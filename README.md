@@ -1,4 +1,4 @@
-# Asylum Of The Damned - one of the two final project
+# Asylum Of The Damned - one of the two final projects
 
 Work in a team of 4 people as lead unity devloper for 3 months.
 Better experience with GitHub and ClickUp platform.
