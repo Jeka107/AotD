@@ -1,6 +1,7 @@
 # Asylum Of The Damned - one of the two final projects
 
 link: https://www.youtube.com/watch?v=_JO29wKQxA4
+link: https://zeogore.itch.io/asylum-of-the-damned
 
 Work in a team of 4 people as lead unity devloper for 3 months.
 Better experience with GitHub and ClickUp platform.
